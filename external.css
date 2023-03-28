@@ -1,0 +1,44 @@
+body {
+    background-color: lightslategray;
+}
+header {
+    background-color: darkkhaki;
+}
+section {
+    background-color: greenyellow;
+}
+footer {
+    background-color: chocolate;
+}
+
+li a{
+    color: red;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+p {
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 600;
+}
+
+li {
+    font-weight: 900;
+    font-size: 20px;
+}
+
+span {
+    color: red;
+    text-transform: uppercase;
+}
+
+
